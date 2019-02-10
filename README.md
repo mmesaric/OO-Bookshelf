@@ -13,5 +13,3 @@ Pregledom informacija o pojedinoj knjižnici, korisnik može pronaći nove knji�
 
 U slučaju da postoje knjige koje su vrlo tražene i često nisu dostupne u knjižnicama, sustav nudi funkcionalnost rezervacije odabrane knjige kako bi se izbjegao uzaludan odlazak člana u knjižnicu, u slučaju da su svi primjerci tražene knjige već posuđeni. 
 Rad korisnika u sustavu završava odjavom korisnika.
-
-Sustav Bookshelf je građen po uzoru na postojeći sustav „Katalog Knjižnica grada Zagreba“ u svrhu promicanja modernizacije knjižničnih sustava za brojna mjesta koja još nemaju organiziran sustav koji bi olakšao i popravio korisničko iskustvo korištenja usluga knjižnice.
